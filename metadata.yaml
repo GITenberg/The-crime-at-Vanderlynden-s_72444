@@ -1,0 +1,36 @@
+_repo: The-crime-at-Vanderlynden-s_72444
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mottram, R. H. (Ralph Hale)
+    aliases:
+    - Marjoram, J.
+    - Mottram, Ralph Hale
+    birthdate: 1883
+    deathdate: 1971
+    gutenberg_agent_id: '56621'
+    url: http://www.gutenberg.org/2009/agents/56621
+    wikipedia: https://en.wikipedia.org/wiki/Ralph_Hale_Mottram
+description: Book 3 of The Spanish farm trilogy.
+gutenberg_issued: '2023-12-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72444'
+language: en
+pgterms:marc904: https://hdl.handle.net/2027/uc1.302073
+pgterms:marc905: 20220321114632mottram
+pgterms:marc906: '1926'
+pgterms:marc907: GB
+production_note: Tim Lindell, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $aLondon :$bChatto & Windus, $c1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: The crime at Vanderlynden's
+url: http://www.gutenberg.org/ebooks/72444
