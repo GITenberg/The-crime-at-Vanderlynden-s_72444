@@ -1,5 +1,8 @@
 _repo: The-crime-at-Vanderlynden-s_72444
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72444-h/images/cover.jpg
 creator:
   author:
     agent_name: Mottram, R. H. (Ralph Hale)
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/56621
     wikipedia: https://en.wikipedia.org/wiki/Ralph_Hale_Mottram
 description: Book 3 of The Spanish farm trilogy.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72444#The-crime-at-Vanderlynden-s
 gutenberg_issued: '2023-12-17'
 gutenberg_type: Text
 identifiers:
